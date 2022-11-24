@@ -49,3 +49,10 @@ curl localhost:2019/load \
 	-H "Content-Type: application/json" \
 	-d @mysite.json
 ```
+You can verify your config, by running `curl localhost:2019/config/`.  
+By checking your Browser, you will still see a 404, not found, but in the command prompt you will get a response:
+Run `curl localhost:444`.
+The response will be:
+```
+Hello, I am your first Website!
+```
