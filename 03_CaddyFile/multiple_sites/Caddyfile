@@ -1,0 +1,9 @@
+website1.yourdomain.com {
+        root * /var/www/site1
+        file_server
+}
+
+website2.yourdomain.com {
+        root * /var/www/site2
+        file_server
+}
