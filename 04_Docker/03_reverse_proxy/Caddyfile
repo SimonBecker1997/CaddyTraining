@@ -1,5 +1,5 @@
 yourdomain.com {
-  reverse_proxy localhost:80 localhost:81 localhost:82 {
+  reverse_proxy localhost:8880 localhost:8881 localhost:8882 {
     lb_policy first
   }
 }
