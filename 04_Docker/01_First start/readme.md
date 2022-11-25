@@ -5,7 +5,8 @@ Use the docker compose.yml in this directory to start the lab.
 ```
 docker volume create --name=caddy_data
 ```
-Then you can start it by running the following command:
+2. Adjust your Caddyfile and change the domain to your actual domain.
+3. Then you can start it by running the following command:
 ```
 docker-compose up
 ```
