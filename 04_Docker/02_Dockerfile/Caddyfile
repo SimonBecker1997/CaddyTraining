@@ -1,4 +1,4 @@
-your-domain.com {
+training-it-consulting-becker.de {
         root * /var/www/
         file_server
 }
