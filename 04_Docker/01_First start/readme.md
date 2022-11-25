@@ -3,7 +3,7 @@
 Use the docker compose.yml in this directory to start the lab. 
 1. First you need to create a volume for caddy to store its data in. Run the command:
 ```
-docker volume create caddy_data
+docker volume create --name=caddy_data
 ```
 Then you can start it by running the following command:
 ```

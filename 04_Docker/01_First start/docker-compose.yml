@@ -12,7 +12,7 @@ services:
       - ./Caddyfile:/etc/caddy/Caddyfile
       - caddy_data:/data
       - caddy_config:/config
-      - ./index.html:/usr/share/caddy/index.html
+      - ./index.html:/var/www/index.html
 volumes:
   caddy_data:
     external: true

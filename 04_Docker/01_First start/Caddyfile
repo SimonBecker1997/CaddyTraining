@@ -1,0 +1,4 @@
+your-domain.com {
+        root * /var/www/
+        file_server
+}
