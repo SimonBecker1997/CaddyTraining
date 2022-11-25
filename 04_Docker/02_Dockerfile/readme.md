@@ -1,4 +1,4 @@
-# Creating a Caddy Docker Image with a website and configs
+# Creating a Caddy Docker image with a website and configs
 ## About this lab
 This lab shows you on how to create a website that is hosted by caddy in a docker container.
 The lab shows you on how to create the Dockerfile as well as how to build and start the container.
