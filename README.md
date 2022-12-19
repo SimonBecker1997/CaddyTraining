@@ -8,10 +8,18 @@ I strongly recommend to watch the course BEFORE you play around with the provide
 
 ## Chapters:
 ### [Installation of Caddy](https://github.com/SimonBecker1997/CaddyTraining/tree/main/01_Installation)
+In the first Chapter, you will learn on how to install Caddy on your linux server. 
 ### [First Start of Caddy](https://github.com/SimonBecker1997/CaddyTraining/tree/main/02_First_Start)
+The second chapter is all about getting started with Caddy. You will start Caddy for the first time and will do your fist configurations.
 ### [Configuring Caddy - The Caddyfile](https://github.com/SimonBecker1997/CaddyTraining/tree/main/03_CaddyFile)
+In this chapter, we do a more detailled and advanced configuration of Caddy with it's config file called "Caddyfile".
 ### [Running Caddy as a Docker Container](https://github.com/SimonBecker1997/CaddyTraining/tree/main/04_Docker)
+In this Chapter, we will run Caddy in a docker container and do some more advanced labs:
+* Run Caddy in a Docker Container
+* Create your Caddy Docker Image with website included
+* Run Caddy as a reverse Proxy for high availability
 ### [Coming Soon - Monitoring](https://github.com/SimonBecker1997/CaddyTraining/tree/main/05_Monitoring)
+Coming soon - How to monitor your caddy webserver. Stay tuned!
 
 
 ## How to run the lab on my computer?
