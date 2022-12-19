@@ -1,0 +1,9 @@
+{
+    servers {
+        metrics
+    }
+}
+
+training-it-consulting-becker.de {
+        respond "Hello, I am a website"
+}
