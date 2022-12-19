@@ -12,3 +12,16 @@ I strongly recommend to watch the course BEFORE you play around with the provide
 ### [Configuring Caddy - The Caddyfile](https://github.com/SimonBecker1997/CaddyTraining/tree/main/03_CaddyFile)
 ### [Running Caddy as a Docker Container](https://github.com/SimonBecker1997/CaddyTraining/tree/main/04_Docker)
 ### [Coming Soon - Monitoring](https://github.com/SimonBecker1997/CaddyTraining/tree/main/05_Monitoring)
+
+
+## How to run the lab on my computer?
+There are multiple ways to run this lab.
+Prerequisites are:
+* Install [Virtual Box](https://www.virtualbox.org/) (Windows, Linux, Mac)
+* Install [Docker-CE](https://docs.docker.com/engine/install/ubuntu/) (If you are on Linux)
+
+When these prerequisites are fulfilled, clone this repository by running
+```
+git clone https://github.com/SimonBecker1997/CaddyTraining.git
+```
+If you do not have git installed, [download](https://github.com/SimonBecker1997/CaddyTraining/archive/refs/heads/main.zip) this repo and extract it on your computer
