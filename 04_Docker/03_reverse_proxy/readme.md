@@ -7,4 +7,6 @@ Start the caddy reverse proxy by running the following command in this folder:
 docker-compose up
 ```
 
-All configs are in the files `docker-compose.yml`
+All configs are in the files `docker-compose.yml` as well as the `Caddyfile`.
+
+You need both to run the lab. 
