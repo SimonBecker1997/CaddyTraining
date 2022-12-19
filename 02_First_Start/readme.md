@@ -1,6 +1,6 @@
 # First Start of Caddy
 ## Before you start the lab
-You've installed Caddy with apt or dnf. Therefor caddy is running as a service and must be stopped before running the next labs.
+You've installed Caddy with apt or dnf. If you haven't, please first do the chapter [Installation](https://github.com/SimonBecker1997/CaddyTraining/tree/main/01_Installation). Therefore caddy is running as a service and must be stopped before running the next labs.
 Do that by running:
 ```systemctl stop caddy```
 ## Start Caddy
