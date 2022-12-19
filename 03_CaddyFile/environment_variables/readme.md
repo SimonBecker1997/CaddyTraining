@@ -7,7 +7,7 @@ Replace your-website.com with your real adress
 
 Create a Caddyfile with the following content:
 ```
-{SITE_URL} {
+{$SITE_URL} {
         respond "Hello, I am Website with environment variable"
 }
 ```
