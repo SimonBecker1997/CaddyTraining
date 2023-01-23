@@ -1,0 +1,20 @@
+{
+        servers {
+                metrics
+        }
+}
+
+(snippet) {
+        respond "This is a snippet that generates the content"
+}
+
+localhost {
+        import snippet
+}
+
+
+localhost:9999 {
+
+respond "I am site Nr 2"
+
+}
